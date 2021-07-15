@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Unnikrishnan
+### Hi there 👋, I'm Unnikrishnan
 #### I'm a budding web developer 
 I'm self taught web dev currently pursuing my degree in computer science from Farook College, Kerala, India. 
 
