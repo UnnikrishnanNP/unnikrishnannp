@@ -2,9 +2,10 @@
  
 #### I'm self taught web dev currently pursuing my degree in computer science from Farook College, Kerala, India. 
 
+---
 
 Skills: PYTHON / DJANGO / JS / HTML / CSS
----
+
 
 - 🔭  TinkerHub Farook College Campus Co-Lead 
 - 🌱 I’m currently learning django framework 
