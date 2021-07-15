@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Unnikrishnan
+# Hi there 👋, I'm Unnikrishnan
  
-#### I'm self taught web dev currently pursuing my degree in computer science from Farook College, Kerala, India. 
+### I'm self taught web dev currently pursuing my degree in computer science from Farook College, Kerala, India. 
 
 ---
 
