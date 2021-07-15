@@ -10,8 +10,11 @@
 - JS
 - HTML
 - CSS
+- And I'm still learning more😎
 
+---
 
+### Know more about me
 - 🔭  TinkerHub Farook College Campus Co-Lead 
 - 🌱 I’m currently learning django framework 
 - 😄 Pronouns: He/His 
