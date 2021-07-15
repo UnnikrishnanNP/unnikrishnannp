@@ -17,9 +17,8 @@ Skills: PYTHON / DJANGO / JS / HTML / CSS
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UnnikrishnanNP&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
+<br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnnikrishnanNP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <br> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UnnikrishnanNP&show_icons=true&theme=radical)
