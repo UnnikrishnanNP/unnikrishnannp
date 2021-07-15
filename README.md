@@ -4,12 +4,12 @@
 
 ---
 
-My Skills:
--PYTHON
--DJANGO
--JS
--HTML
--CSS
+### My Skills:
+- PYTHON
+- DJANGO
+- JS
+- HTML
+- CSS
 
 
 - 🔭  TinkerHub Farook College Campus Co-Lead 
