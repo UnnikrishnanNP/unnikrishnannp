@@ -16,7 +16,7 @@
 
 ### Know more about me
 - 🔭  TinkerHub Farook College Campus Co-Lead 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Django
 - 😄 Pronouns: He/His 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can code and sing togteher😂 
